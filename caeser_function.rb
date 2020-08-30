@@ -22,7 +22,5 @@ def input
     caeser(text, key)
 end
   
-
-  
-  input()
+input()
   
